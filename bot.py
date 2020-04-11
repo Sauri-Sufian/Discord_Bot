@@ -3,7 +3,7 @@ import discord
 import time
 import requests
 
-token='Njk2MTkzODk2MDczMzk2Mjg1.Xo99hg.X18Kp_xSnRXxGvoqnXYmEdaPq-U'
+token='tokenhere'
 class MyClient(discord.Client):
 
     async def on_ready(self):
